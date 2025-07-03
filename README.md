@@ -32,4 +32,4 @@ A fully functional image slider built with **vanilla JavaScript**. It includes *
 
 ## View Demo
 
-View it live: [https://hinds1ght.github.io/image_slider/]
+View it live: [(https://hinds1ght.github.io/image-slider/)]
